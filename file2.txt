@@ -1,0 +1,2 @@
+This is the first line of file2.txt
+This file is created in remote to check fetch & merge
